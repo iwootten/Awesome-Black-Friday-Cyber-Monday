@@ -78,6 +78,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
 | 🐛 | [Telebugs](https://telebugs.com/?utm_source=tonybf) | Self-hosted Sentry alternative for error tracking | 20% OFF with code **BF2025** |
+| 💬 | [Despeech](https://despeech.com/?utm_source=tonybf) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -101,7 +102,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
 | 🐘 | [Elephas](https://elephas.app/pricing?utm_source=tonybf) | Your AI Powered Knowledge Assistant - Unlimited documents and integrations (including Apple Notes) | 20% OFF on all Lifetime Plans with code **BFCM25** |
-| 👨🏻‍🏫 | [MagicSlides](https://magicslides.app/?utm_source=tonybf) | Instantly create PPT using AI. Native, fast and respect your privacy. | 25% OFF with code **BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
